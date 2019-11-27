@@ -1,0 +1,3 @@
+include ':ic_launcher'
+rootProject.name='MobileShop'
+include ':app'
